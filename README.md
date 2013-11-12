@@ -10,5 +10,5 @@ For the node which receive the hello packet run receive.ko in receive folder.
 
 Note: The implementation is done as kernel programming. 
 
-For any improvement or suggestions feel free to contact me. Alternatively you can also fork me. You can contact me using following mail id
-mg_praveenkumar@yahoo.com.sg
+For any improvement or suggestions feel free to contact me. Alternatively you can also fork. 
+
