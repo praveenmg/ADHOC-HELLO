@@ -1,0 +1,1 @@
+cmd_/home/acrp3/Desktop/hello/receive/receive.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.38-16-generic-pae/scripts/module-common.lds --build-id  -o /home/acrp3/Desktop/hello/receive/receive.ko /home/acrp3/Desktop/hello/receive/receive.o /home/acrp3/Desktop/hello/receive/receive.mod.o

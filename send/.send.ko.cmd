@@ -1,0 +1,1 @@
+cmd_/home/acrp2/Desktop/packet/send/send.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.38-16-generic-pae/scripts/module-common.lds --build-id  -o /home/acrp2/Desktop/packet/send/send.ko /home/acrp2/Desktop/packet/send/send.o /home/acrp2/Desktop/packet/send/send.mod.o
